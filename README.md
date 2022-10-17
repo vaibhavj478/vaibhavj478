@@ -30,8 +30,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="center"  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavj478&show_icons=true&locale=en&layout=compact" alt="vaibhavj478" /></p>
+<p align="center" ><img align="center"  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavj478&show_icons=true&locale=en&layout=compact" alt="vaibhavj478" /></p>
 
-<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavj478&show_icons=true&locale=en" alt="vaibhavj478" /></p>
+<p align="center" >&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavj478&show_icons=true&locale=en" alt="vaibhavj478" /></p>
 
-<p><img align="center"  width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavj478&" alt="vaibhavj478" /></p>
+<p align="center" ><img align="center"  width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavj478&" alt="vaibhavj478" /></p>
